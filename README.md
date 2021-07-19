@@ -1,5 +1,5 @@
 # Doctorsdesign
-single page Doctor's info design using html, css, bootstrap
+Single page Doctor's Profile info design using HTML5, CSS3 and BOOTSTRAP4....
 
 
 ![](screenshot_img/Web_Doctors_index.html.png)
